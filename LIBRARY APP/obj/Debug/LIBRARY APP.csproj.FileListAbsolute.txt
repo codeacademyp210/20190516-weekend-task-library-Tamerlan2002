@@ -1,0 +1,17 @@
+C:\Users\Hp ProBook\Desktop\New\C#\Library App\LIBRARY APP\LIBRARY APP\bin\Debug\LIBRARY APP.exe.config
+C:\Users\Hp ProBook\Desktop\New\C#\Library App\LIBRARY APP\LIBRARY APP\bin\Debug\LIBRARY APP.exe
+C:\Users\Hp ProBook\Desktop\New\C#\Library App\LIBRARY APP\LIBRARY APP\bin\Debug\LIBRARY APP.pdb
+C:\Users\Hp ProBook\Desktop\New\C#\Library App\LIBRARY APP\LIBRARY APP\obj\Debug\LIBRARY APP.csprojAssemblyReference.cache
+C:\Users\Hp ProBook\Desktop\New\C#\Library App\LIBRARY APP\LIBRARY APP\obj\Debug\LIBRARY_APP.Library.resources
+C:\Users\Hp ProBook\Desktop\New\C#\Library App\LIBRARY APP\LIBRARY APP\obj\Debug\LIBRARY_APP.Properties.Resources.resources
+C:\Users\Hp ProBook\Desktop\New\C#\Library App\LIBRARY APP\LIBRARY APP\obj\Debug\LIBRARY APP.csproj.GenerateResource.cache
+C:\Users\Hp ProBook\Desktop\New\C#\Library App\LIBRARY APP\LIBRARY APP\obj\Debug\LIBRARY APP.csproj.CoreCompileInputs.cache
+C:\Users\Hp ProBook\Desktop\New\C#\Library App\LIBRARY APP\LIBRARY APP\obj\Debug\LIBRARY APP.exe
+C:\Users\Hp ProBook\Desktop\New\C#\Library App\LIBRARY APP\LIBRARY APP\obj\Debug\LIBRARY APP.pdb
+C:\Users\Hp ProBook\Desktop\New\C#\Library App\LIBRARY APP\LIBRARY APP\obj\Debug\LIBRARY_APP.newbook.resources
+C:\Users\Hp ProBook\Desktop\New\C#\Library App\LIBRARY APP\LIBRARY APP\bin\Debug\EntityFramework.dll
+C:\Users\Hp ProBook\Desktop\New\C#\Library App\LIBRARY APP\LIBRARY APP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hp ProBook\Desktop\New\C#\Library App\LIBRARY APP\LIBRARY APP\bin\Debug\EntityFramework.xml
+C:\Users\Hp ProBook\Desktop\New\C#\Library App\LIBRARY APP\LIBRARY APP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hp ProBook\Desktop\New\C#\Library App\LIBRARY APP\LIBRARY APP\obj\Debug\LIBRARY_APP.Readingbook.resources
+C:\Users\Hp ProBook\Desktop\New\C#\Library App\LIBRARY APP\LIBRARY APP\obj\Debug\LIBRARY APP.csproj.CopyComplete
